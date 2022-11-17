@@ -9,12 +9,11 @@ import javax.persistence.Id;
 import javax.persistence.Table;
 
 import lombok.AllArgsConstructor;
+import lombok.Data;
 import lombok.Getter;
 import lombok.Setter;
 
-@Getter
-@Setter
-@AllArgsConstructor
+@Data
 @Entity
 @Table(name ="tb_sales")
 public class Sale {
@@ -28,6 +27,7 @@ public class Sale {
 	private Integer deals;
 	private Double amount;
 	private LocalDate date;
+	
 	
 
 }
