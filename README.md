@@ -11,12 +11,13 @@
 
 </div>
 
-<h1 align="center"><img src="./media/desktop.png"></h1>
+<h1 align="center"><img src="./media-README/desktop.png"></h1>
 
 ## About 📚
 
 O **DSMeta** projeto foi desenvolvido durante a 11ª edição do evento Spring React Week** do DevSuperior. Durante o curso, foram abordados os conceitos básicos do framework Spring na construção de endpoints de uma  Rest API no backend e a base React na composição do frontend, colocando tudo em prática no desenvolvimento deste projeto, **DSMeta**. Um serviço fictício que lista as vendas com notificação por SMS.
 
+Link da aplicação : <a href="https://dsmeta-pedrohmota.netlify.app">https://dsmeta-pedrohmota.netlify.app</a>
 
 
 ## Technologies Used 🚀
@@ -152,7 +153,7 @@ Send the SMS informing the seller's name, total sales value in the month and the
 
 **Retorna uma lista de vendedores com um intervalo de dados.**
 
-![alt](/media/demo1.gif)
+![alt](/media-README/demo1.gif)
 
 **Notificação push sms individual para cada vendedor.**
 
@@ -160,7 +161,7 @@ Send the SMS informing the seller's name, total sales value in the month and the
 
 **O sms é enviado para o número cadastrado no serviço Twilio.**
 
-<img src="./media/sms2.png" width="400">
+<img src="./media-README/sms2.png" width="400">
 
 ---
 
