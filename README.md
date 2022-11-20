@@ -157,7 +157,7 @@ Send the SMS informing the seller's name, total sales value in the month and the
 
 **Notificação push sms individual para cada vendedor.**
 
-![alt](/media/demo2.gif)
+![alt](/media-README/demo2.gif)
 
 **O sms é enviado para o número cadastrado no serviço Twilio.**
 
